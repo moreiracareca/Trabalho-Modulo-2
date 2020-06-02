@@ -1,4 +1,4 @@
-# Trabalho-Modulo-2
+# Trabalho-Modulo-2   --- IGTI ---
 O aluno deverá criar um projeto Node.js para realizar a criação de alguns métodos e processamento de arquivos JSON.
 
 O aluno deverá desempenhar as seguintes atividades:
